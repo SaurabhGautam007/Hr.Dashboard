@@ -1,0 +1,29 @@
+
+a] Initially i went through Gathering and collecting of data and understanding the business problem with the company.
+>we have almost 1500 employee data .
+
+
+b] Later i started working on the project, and extracted dataset into Excel,
+>for the exact kpis, using excel for analysis of the data .
+> what to show in DASHBOARD create a pivot table of the Data sets and for getting more insights.
+
+
+c]Then I went with Extracting Dataset into PowerBi
+
+d]Then Actual Process started of Cleaning and Transforming the data as per requirement
+
+>go to format data
+-:1.data cleaning and processing
+
+2.checked the data is null or empty or not, by going to view,will check mark the qulatity column,this will show for all the column 
+
+3.then i sort it in asecending manner,then go to remove rows enter rows no, which are empty and not required.
+
+4.removed duplicates what are  required, shift select  last column >then right click remove duplicates.
+
+5.then check each column is the spelling is correct or similar name then right click then replace values.
+
+6.sometimes bi unable to detect datatype then select all with shift then go to transform and detetct datatype.
+
+
+e]As i wroking with single Dataset ,so no need of Data modelling Here ,all the required data we had in single table.

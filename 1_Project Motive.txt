@@ -1,0 +1,18 @@
+HR ANALYTICS DASHBOARD:
+
+SCOPE :
+>WHAT is the factor
+>what is the key factor
+>why the attrition is happening 
+>why people leaving the company
+>Top five reson of attrition 
+>Get the meaningful insight 
+>Solving this by better business descion
+
+
+
+Stakeholder :
+>Ceo
+>Hr Department
+>Manager
+>client

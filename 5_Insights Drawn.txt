@@ -1,0 +1,18 @@
+
+//INSIGHTS//
+
+After the Creation of Dashboard I got an insights they are as follows:
+
+1] The Avg salary of employee was 6.5k
+
+2] The people between age group 25-35 are having high percentage of attrition.
+
+3] Laboratory technician, Sales Executive and Research Scientist are the top three Job profile of attrition.
+
+4] Total attrition was 229.
+
+5] Attrition Rate is 16.2%.
+
+6] Attrition of Male is 145 and Female is 84.
+
+7] The education field of employee having life science and medical are having the attrition most.

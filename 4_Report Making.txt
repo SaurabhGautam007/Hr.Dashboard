@@ -1,0 +1,71 @@
+//Analysis and Report Part//
+
+I started working on Report , for getting the resaon of attrition in all aspects.
+
+1.I have taken a single card of kpi visuals to show the emplyoee no. in Highlight section, so that it should fluctuate after applying filter.
+>Drag the EmpId into visualization
+>Then right click and select count, for showing the count of employee.
+>Then i formated the visuals with text,size,font,colour,background,shadow,shape,Data label,etc.
+
+2.I copied the visuals for Highlighting other data
+
+3.Then we want count of attriton ,so as we have like attrition in yes or no form so then will go to format data and make conditional column
+>like if yes then 1 else 0
+>we can get the count of attrition
+>And then Drag this Measure into copied visuals to Highlight this too.
+
+4.Then I wanted rate or percentage of attrition ,then in bi only i go the new measure ,
+applied formula and calculated it.
+
+>rate=sum(attriton count)/sum(emp count)
+>then if getting a value in o.decimal ,go to measure tools convert to percentage,and also keep upto decimal point.
+>Drag this also in Kpis card for Highlighting the percentage.
+
+5.Then I want the avg age of working employee in company,
+>go to summ ,then right click > select avg> 
+>go to format>remove or keep decimal
+
+6.Then I want the avg salary go to monthly income
+>go to summ ,then right click > select avg> 
+>go to format>remove or keep decimal
+
+7.Then I  go with visulas creating a doughnut chart that attrition take place by education field 
+>Then i formated the visuals with text,size,font,colour,background,shadow,shape,Data label,
+>required types of visuals,legends,Text etc.
+
+8.Then I wanted the age wise attrition, 
+>if there is age group use it otherwise make it manually.
+>I created manually by categorizing the age through bucketing.
+
+9.Then we want attrition on basis of satisafction score 
+>And That also given by type of job role emolyee having.
+>Then will use matrix table visuals
+>formated it same as other.
+
+10.Then I want salary wise  attrition ,
+>so there can be differnt type of monthly salries,so will bucket it into group 
+>like upto 5k, upto 10k etc in power query by conditional columns .
+
+
+11.NOw,
+I also want filter: to redcue so much bars so will take top 5 
+>goto filter drag attrition into filter
+>attrition filter >top N>5
+>basis on attrition counts
+
+
+12.Then I, wanted attrition by job role and used bar visualization for it.
+>>Then i formated the visuals with text,size,font,colour,background,shadow,shape,Data label,
+>required types of visuals,legends,Text etc.
+
+13.Then I, want attrition by age group used bar visualization here also.
+>>Then i formated the visuals with text,size,font,colour,background,shadow,shape,Data label,
+>required types of visuals,legends,Text etc.
+
+14.Then I, want attrition by gender used tree graph by divding and getting the clear understanding of data
+>Then i formated the visuals with text,size,font,colour,background,shadow,shape,Data label,
+>required types of visuals,legends,Text etc.
+
+*****************************************************************
+*Later combining and organizing all the visuals and reports again to make proper understanding of DASHBOARD for whats it Made for,
+>This will help to understanding all the aspects of attrition as per Dataset of company
